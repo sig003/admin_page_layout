@@ -23,4 +23,4 @@ $ yarn add @mui/material @emotion/react @emotion/styled
 
 ## Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/53844621/141733627-8515eb88-24f5-4726-8293-7948f434d927.png)
+![screenshot](https://user-images.githubusercontent.com/53844621/141734209-c08636c9-1d26-4cb2-9e03-579ef60e9a99.png)
