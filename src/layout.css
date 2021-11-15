@@ -1,0 +1,42 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.top {
+  width: 100%;
+  height: 76px;
+  background-color: #0E71FF;
+}
+.content {
+  display: flex;
+}
+.center {
+  background-color: #E9EDF5;
+  width: 100%;
+  height: 100%;
+  left: 200px;
+  position: fixed;
+  padding-left: 30px;
+}
+.left {
+  width: 203px;
+  height: 100%;
+  position: fixed;
+}
+.grid_blank {
+	padding-top: 30px;
+}
+
+@media (max-width: 900px) {
+  .left {
+    display: none;
+  }
+  .center {
+    background-color: #E9EDF5;
+    width: 100%;
+    height: 100%;    
+    position: fixed;
+    padding-left: 30px;
+    left: 0px;
+  }
+}
