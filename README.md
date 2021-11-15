@@ -1,5 +1,5 @@
 # Admin Page Layout 
-I found a admin page layout. But there are complex design, redundant function, difficult customization and pay for money.  
+I found the admin page layout. But there are complex design, redundant function, difficult customization and pay for money.  
 So I made. Easy!!   
 You can be used to admin page or etc page.
 
